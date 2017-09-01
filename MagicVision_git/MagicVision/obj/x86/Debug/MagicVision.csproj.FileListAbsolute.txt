@@ -1,0 +1,5 @@
+E:\Gitsource\MagicVision_git\MagicVision\obj\x86\Debug\MagicVision.csprojResolveAssemblyReference.cache
+E:\Gitsource\MagicVision_git\MagicVision\obj\x86\Debug\PoolVision.Form1.resources
+E:\Gitsource\MagicVision_git\MagicVision\obj\x86\Debug\MagicVision.Properties.Resources.resources
+E:\Gitsource\MagicVision_git\MagicVision\obj\x86\Debug\MagicVision.csproj.GenerateResource.Cache
+E:\Gitsource\MagicVision_git\MagicVision\obj\x86\Debug\MagicVision.csproj.CoreCompileInputs.cache
