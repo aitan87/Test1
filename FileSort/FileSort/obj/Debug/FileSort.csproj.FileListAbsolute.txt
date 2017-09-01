@@ -1,0 +1,6 @@
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\bin\Debug\FileSort.pdb
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\obj\Debug\FileSort.csprojResolveAssemblyReference.cache
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\obj\Debug\FileSort.pdb
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\bin\Debug\FileSort.dll.config
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\bin\Debug\FileSort.dll
+c:\users\gujc\documents\visual studio 2017\Projects\FileSort\FileSort\obj\Debug\FileSort.dll
