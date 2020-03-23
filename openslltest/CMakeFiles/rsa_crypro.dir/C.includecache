@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aitan/code/openslltest/src/rsa_crypto.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+openssl/bn.h
+-
+openssl/rsa.h
+-
+

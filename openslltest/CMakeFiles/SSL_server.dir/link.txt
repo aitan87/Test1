@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/SSL_server.dir/src/test_openssl_server.c.o  -o SSL_server   -L/usr/local/ssl/lib  -Wl,-rpath,/usr/local/ssl/lib -lssl -lcrypto -ldl -lpthread 

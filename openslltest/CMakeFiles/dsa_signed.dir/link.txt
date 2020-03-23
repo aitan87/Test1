@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/dsa_signed.dir/src/dsa_signed.c.o  -o bin/dsa_signed   -L/usr/local/ssl/lib  -L/home/aitan/code/openslltest/./bin  -Wl,-rpath,/usr/local/ssl/lib:/home/aitan/code/openslltest/./bin -lssl -lcrypto -ldl -lpthread 

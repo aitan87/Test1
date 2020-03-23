@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/ECCTest.dir/SM2/ECC_test.c.o  -o bin/ECCTest   -L/usr/local/ssl/lib  -L/home/aitan/code/openslltest/./bin  -Wl,-rpath,/usr/local/ssl/lib:/home/aitan/code/openslltest/./bin -lssl -lcrypto -ldl -lpthread 
